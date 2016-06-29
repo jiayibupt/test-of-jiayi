@@ -1,2 +1,3 @@
 # test-of-jiayi
-some small works
+hello the coding world~
+Here I am, a freshwoman in the coding world,with poor English and more poor coding ability.
